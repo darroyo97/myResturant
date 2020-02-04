@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    background-color: #E76F51;    
+}
+p, h3 {
+    color: #264653;
+    font-family: 'Poppins', sans-serif;
+}
+.myBorder {
+    border:black solid 3px;
+}
